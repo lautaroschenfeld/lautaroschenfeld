@@ -13,7 +13,7 @@
 - 💻 I have knowledge of the .NET framework.
   
 ## 📫 How to reach me
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://google.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://google.com) [![Outlook](https://img.shields.io/badge/Outlook-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://example.com)
 
 <p align="left">
     Email: <a href="mailto:lautaroschenfeld@outlook.com">lautaroschenfeld@outlook.com</a><b>
