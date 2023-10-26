@@ -13,12 +13,6 @@
 - 💻 I have knowledge of the .NET framework.
   
 ## 📫 How to reach me
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://google.com) [![Outlook](https://img.shields.io/badge/Outlook-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://example.com)
-
-<p align="left">
-    Email: <a href="mailto:lautaroschenfeld@outlook.com">lautaroschenfeld@outlook.com</a><b>
-    Discord: <a href="https://discord.com/users/300261615855730699">hydra074</a><b>
-    Instagram: <a href="https://www.instagram.com/lau.schenfeld/">lau.schenfeld</a><b>
-</p>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://google.com) [![Outlook](https://img.shields.io/badge/Outlook-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://example.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://example.com) [![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)](https://example.com)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lautaroschenfeld&show_icons=true&locale=en&layout=compact" alt="lautaroschenfeld" /></p>
