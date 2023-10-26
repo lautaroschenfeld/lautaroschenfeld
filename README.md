@@ -15,9 +15,10 @@
 ## 📫 How to reach me
 <h3 align="left">📫 How to reach me</h3>
 <p align="left">
-    Email: <a href="mailto:lautaroschenfeld@outlook.com">lautaroschenfeld@outlook.com</a>
-    Discord: <a href="https://discord.com/users/300261615855730699">hydra074</a>
-    Instagram: <a href="https://www.instagram.com/lau.schenfeld/">lau.schenfeld</a>
+    Email: <a href="mailto:lautaroschenfeld@outlook.com">lautaroschenfeld@outlook.com</a><b>
+    Whatsapp: https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://google.com<b>
+    Discord: <a href="https://discord.com/users/300261615855730699">hydra074</a><b>
+    Instagram: <a href="https://www.instagram.com/lau.schenfeld/">lau.schenfeld</a><b>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lautaroschenfeld&show_icons=true&locale=en&layout=compact" alt="lautaroschenfeld" /></p>
