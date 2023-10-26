@@ -7,7 +7,8 @@
 
 ## About me
 - 📚 I’m currently studying at [UTN: Regional Faculty Parana](https://www.frp.utn.edu.ar)
-- 🛠️ Experienced in the development of WhatsApp and Discord bots.
+- 🤖 Experienced in the development of WhatsApp and Discord bots.
+
 
 - 🛠️ Skilled in: Python, JavaScript, and C#.
 - 🌱 Currently learning: C, C++, and Java.
