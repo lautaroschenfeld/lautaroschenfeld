@@ -5,7 +5,7 @@
 ![Welcome GIF](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/149093351/b58f84a5-aa5d-4e7b-a5fb-ad2de121e8d9)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lautaroschenfeld&label=Profile%20views&color=0e75b6&style=flat" alt="lautaroschenfeld" /> </p>
 
-## About me
+## 👨‍💻 About me
 - 📚 I’m currently studying at [UTN: Regional Faculty Parana](https://www.frp.utn.edu.ar)
 - 🤖 Experienced in the development of WhatsApp and Discord bots.
 - 🛠️ Skilled in: Python, JavaScript, and C#.
