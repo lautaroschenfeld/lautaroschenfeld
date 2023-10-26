@@ -13,7 +13,8 @@
 - 💻 I have knowledge of the .NET framework.
   
 ## 📫 How to reach me
-[![Whatsapp]([https://img.shields.io/badge/license-mit-brightgreen.svg](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white))]([https://en.wikipedia.org/wiki/MIT_License](https://google.com))
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://google.com)
+
 <p align="left">
     Email: <a href="mailto:lautaroschenfeld@outlook.com">lautaroschenfeld@outlook.com</a><b>
     Discord: <a href="https://discord.com/users/300261615855730699">hydra074</a><b>
