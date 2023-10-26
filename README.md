@@ -13,10 +13,9 @@
 - 💻 I have knowledge of the .NET framework.
   
 ## 📫 How to reach me
-<h3 align="left">📫 How to reach me</h3>
+Whatsapp: https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://google.com
 <p align="left">
     Email: <a href="mailto:lautaroschenfeld@outlook.com">lautaroschenfeld@outlook.com</a><b>
-    Whatsapp: https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://google.com<b>
     Discord: <a href="https://discord.com/users/300261615855730699">hydra074</a><b>
     Instagram: <a href="https://www.instagram.com/lau.schenfeld/">lau.schenfeld</a><b>
 </p>
