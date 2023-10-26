@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Welcome GIF](https://imgur.com/JhIIBEg)
+![Welcome GIF](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/149093351/b58f84a5-aa5d-4e7b-a5fb-ad2de121e8d9)
 
 Here are some ideas to get you started:
 
