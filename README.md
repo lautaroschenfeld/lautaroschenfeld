@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src = 'https://imgur.com/a/8MVgAox' alt = 'Welcome Image'>
+[Welcome GIF](https://imgur.com/JhIIBEg)
 
 Here are some ideas to get you started:
 
