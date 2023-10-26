@@ -12,10 +12,8 @@
 - 🌱 Currently learning: C, C++, and Java.
 - 💻 I have knowledge of the .NET framework.
   
-<h3 align="left">📫 How to reach me</h3>
-<p align="left">
-    Email: <a href="mailto:lautaroschenfeld@outlook.com">lautaroschenfeld@outlook.com</a><br>
-    Discord: <a href="https://discord.com/users/300261615855730699">hydra074</a>
-</p>
+## 📫 How to reach me</h3>
+Email: <a href="mailto:lautaroschenfeld@outlook.com">lautaroschenfeld@outlook.com</a><br>
+Discord: <a href="https://discord.com/users/300261615855730699">hydra074</a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lautaroschenfeld&show_icons=true&locale=en&layout=compact" alt="lautaroschenfeld" /></p>
