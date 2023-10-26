@@ -13,6 +13,7 @@
 - 💻 I have knowledge of the .NET framework.
   
 ## 📫 How to reach me
+[![license](https://img.shields.io/badge/license-mit-brightgreen.svg)](https://en.wikipedia.org/wiki/MIT_License)
 [Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://google.com)
 <p align="left">
     Email: <a href="mailto:lautaroschenfeld@outlook.com">lautaroschenfeld@outlook.com</a><b>
