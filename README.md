@@ -15,7 +15,7 @@
 ## 📫 How to reach me
 <h3 align="left">📫 How to reach me</h3>
 <p align="left">
-    Email: <a href="mailto:lautaroschenfeld@outlook.com">lautaroschenfeld@outlook.com</a><br>
+    Email: <a href="mailto:lautaroschenfeld@outlook.com">lautaroschenfeld@outlook.com</a>
     Discord: <a href="https://discord.com/users/300261615855730699">hydra074</a>
     Instagram: <a href="https://www.instagram.com/lau.schenfeld/">lau.schenfeld</a>
 </p>
