@@ -3,7 +3,7 @@
 </div>
 
 ![Welcome GIF](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/149093351/ca382943-0ab3-428c-8f17-4b3e30d4e48f)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lautaroschenfeld&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="lautaroschenfeld" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lautaroschenfeld&label=Profile%20views&color=FFF690&style=for-the-badge" alt="lautaroschenfeld" /> </p>
 
 ## 👨‍💻 About me
 - 📚 I’m currently studying at [UTN: Regional Faculty Parana](https://www.frp.utn.edu.ar)
