@@ -2,8 +2,7 @@
    <h1 align='center'> <b>Hi! My name is Lautaro 👋</b> </h1>
 </div>
 
-![Welcome GIF](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/118790494/e32af9c0-3ce5-4c1d-9b8c-994d9ac65d15
-
+![Welcome GIF](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/118790494/e32af9c0-3ce5-4c1d-9b8c-994d9ac65d15)
 <img src="https://komarev.com/ghpvc/?username=lautaroschenfeld&label=Profile%20views&color=292929&style=for-the-badge" alt="lautaroschenfeld" style="color: black;" /> 
 
 ## 👨‍💻 About me
