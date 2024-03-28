@@ -2,6 +2,8 @@
    <h1 align='center'> <b>Hi! My name is Lautaro 👋</b> </h1>
 </div>
 
+![@ (3)](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/118790494/08989e12-30fe-46ad-8770-ae7f296b9a34)
+
 APNG
 ![1-ezgif com-video-to-apng-converter](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/118790494/feaeb4a9-8d3c-49d7-a085-7e17a6e4983f)
 
