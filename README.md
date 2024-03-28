@@ -2,28 +2,7 @@
    <h1 align='center'> <b>Hi! My name is Lautaro 👋</b> </h1>
 </div>
 
-![@ (2)](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/118790494/e32af9c0-3ce5-4c1d-9b8c-994d9ac65d15)
-
-![@ (3)](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/118790494/08989e12-30fe-46ad-8770-ae7f296b9a34)
-
-APNG
-![1-ezgif com-video-to-apng-converter](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/118790494/feaeb4a9-8d3c-49d7-a085-7e17a6e4983f)
-
-1
-![@ (1) (4)](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/118790494/d5971c5e-a1c0-4aac-8379-4db6ee2c539a)
-
-2
-![@ (1) (2)](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/118790494/dde5fff0-7138-4504-9720-9e65ba9bf567)
-
-3
-![@ (1) (1)](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/118790494/9b2d7351-1e60-484b-beda-7b25e9a3c032)
-
-4
-https://github.com/lautaroschenfeld/lautaroschenfeld/assets/118790494/ee292ccd-65f8-48d5-8524-e701c139bb8f
-
-5
-![@](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/118790494/bbc4b832-d4ba-4e18-a9c5-8ac5f3a7b253)
-
+![Welcome GIF](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/118790494/e32af9c0-3ce5-4c1d-9b8c-994d9ac65d15
 
 <img src="https://komarev.com/ghpvc/?username=lautaroschenfeld&label=Profile%20views&color=292929&style=for-the-badge" alt="lautaroschenfeld" style="color: black;" /> 
 
