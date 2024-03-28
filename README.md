@@ -2,6 +2,8 @@
    <h1 align='center'> <b>Hi! My name is Lautaro 👋</b> </h1>
 </div>
 
+![@ (2)](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/118790494/e32af9c0-3ce5-4c1d-9b8c-994d9ac65d15)
+
 ![@ (3)](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/118790494/08989e12-30fe-46ad-8770-ae7f296b9a34)
 
 APNG
