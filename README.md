@@ -2,6 +2,7 @@
    <h1 align='center'> <b>Hi! My name is Lautaro 👋</b> </h1>
 </div>
 
+![@ (1) (2)](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/118790494/dde5fff0-7138-4504-9720-9e65ba9bf567)
 ![@ (1) (1)](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/118790494/9b2d7351-1e60-484b-beda-7b25e9a3c032)
 https://github.com/lautaroschenfeld/lautaroschenfeld/assets/118790494/ee292ccd-65f8-48d5-8524-e701c139bb8f
 ![@](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/118790494/bbc4b832-d4ba-4e18-a9c5-8ac5f3a7b253)
