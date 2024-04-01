@@ -14,12 +14,3 @@
 
 ## 📫 How to reach me
 [![Outlook](https://img.shields.io/badge/Outlook-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lautaroschenfeld@outlook.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/300261615855730699)
-
-## 🕒 My coding activity over the last 7 days
-<a href="https://wakatime.com">
-  <img src="https://wakatime.com/share/@lautaroschenfeld/fe750dbb-a4e2-4491-9f4d-8db3494726ff.png" style="width: 50%; height: 50%;" />
-</a>
-
-<a href="https://wakatime.com">
-  <img src="https://wakatime.com/share/@lautaroschenfeld/4cb8d966-285c-430d-856d-840ca0283af6.png" style="width: 49%; height: 50%;" />
-</a>
