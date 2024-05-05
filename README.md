@@ -15,4 +15,4 @@
 ## 📫 How to reach me
 [![Outlook](https://img.shields.io/badge/Outlook-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lautaroschenfeld@outlook.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/300261615855730699)
 
-https://discord-readme-badge.vercel.app/api?id=300261615855730699
+![My Discord](https://discord-readme-badge.vercel.app/api?id=300261615855730699)
