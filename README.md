@@ -2,7 +2,7 @@
    <h1 align='center'> <b>Hi! My name is Lautaro 👋</b> </h1>
 </div>
 
-![Welcome GIF](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/118790494/e32af9c0-3ce5-4c1d-9b8c-994d9ac65d15)
+![WELCOME GIF](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/118790494/e32af9c0-3ce5-4c1d-9b8c-994d9ac65d15)
 <img src="https://komarev.com/ghpvc/?username=lautaroschenfeld&label=Profile%20views&color=292929&style=for-the-badge" alt="lautaroschenfeld" style="color: black;" /> 
 
 ## 👨‍💻 About me
@@ -12,6 +12,7 @@
 - 🌱 Currently learning: [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS), [React.js](https://en.wikipedia.org/wiki/React_(JavaScript_library)), [Node.js](https://en.wikipedia.org/wiki/Node.js) and [REST API](https://www.ibm.com/topics/rest-apis).
 - 💻 I have knowledge of the [.NET framework](https://en.wikipedia.org/wiki/.NET_Framework).
 
+## Skills
 ![SKILLS](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/118790494/cf7ea955-1464-45c0-ab7c-88d4aa8a12d7)
 
 ## 📫 How to reach me
