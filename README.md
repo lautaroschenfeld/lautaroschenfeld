@@ -9,7 +9,7 @@
 - 📚 I’m currently studying at [UTN: Regional Faculty Parana](https://www.frp.utn.edu.ar)
 - 🤖 Experienced in the development of [WhatsApp](https://www.whatsapp.com/) and [Discord](https://discord.com/) bots.
 - 🛠️ Skilled in: [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), and [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)).
-- 🌱 Currently learning: [C](https://en.wikipedia.org/wiki/C_(programming_language)), [C++](https://en.wikipedia.org/wiki/C%2B%2B), and [Java](https://en.wikipedia.org/wiki/Java_(programming_language)).
+- 🌱 Currently learning: [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS), [React.js](https://en.wikipedia.org/wiki/React_(JavaScript_library)), [Node.js](https://en.wikipedia.org/wiki/Node.js) and [REST API](https://www.ibm.com/mx-es/topics/rest-apis).
 - 💻 I have knowledge of the [.NET framework](https://en.wikipedia.org/wiki/.NET_Framework).
 
 ## 📫 How to reach me
