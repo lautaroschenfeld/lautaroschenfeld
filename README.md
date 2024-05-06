@@ -12,7 +12,7 @@
 - 🌱 Currently learning: [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS), [React.js](https://en.wikipedia.org/wiki/React_(JavaScript_library)), [Node.js](https://en.wikipedia.org/wiki/Node.js) and [REST API](https://www.ibm.com/topics/rest-apis).
 - 💻 I have knowledge of the [.NET framework](https://en.wikipedia.org/wiki/.NET_Framework).
 
-## Skills
+## ⚙️ Skills
 ![SKILLS](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/118790494/cf7ea955-1464-45c0-ab7c-88d4aa8a12d7)
 
 ## 📫 How to reach me
