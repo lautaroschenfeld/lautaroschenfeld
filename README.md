@@ -13,7 +13,7 @@
 - 💻 I have knowledge of the [.NET framework](https://en.wikipedia.org/wiki/.NET_Framework).
 
 ## ⚙️ My coding skills
-![SKILLS](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/118790494/c4a074fa-78ba-4a9f-a35f-f883ed026367)
+![SKILLS](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/118790494/4d393a8f-1dad-4194-973e-9251d9e24383)
 
 ## 📫 How to reach me
 [![Outlook](https://img.shields.io/badge/Outlook-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lautaroschenfeld@outlook.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/300261615855730699)
