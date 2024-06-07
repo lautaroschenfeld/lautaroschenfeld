@@ -10,7 +10,8 @@
 - 📚 I’m currently studying at [UTN: Regional Faculty Parana](https://www.frp.utn.edu.ar).
 - 🤖 Experienced in the development of [WhatsApp](https://www.whatsapp.com/) and [Discord](https://discord.com/) bots.
 - 🌱 Currently learning: [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS), [React.js](https://en.wikipedia.org/wiki/React_(JavaScript_library)), [Node.js](https://en.wikipedia.org/wiki/Node.js) and [REST API](https://www.ibm.com/topics/rest-apis).
-- 💻 I have knowledge of the [.NET framework](https://en.wikipedia.org/wiki/.NET_Framework).
+- 🧠 Interest in machine learning and artificial intelligence.
+- 💻 Proficient in UI/UX design principles, ensuring intuitive and visually appealing user interfaces.
 
 ## ⚙️ My coding skills
 ![SKILLS](https://github.com/lautaroschenfeld/lautaroschenfeld/assets/118790494/5c3878a9-b812-467d-bc11-a3b5515d5df1)
